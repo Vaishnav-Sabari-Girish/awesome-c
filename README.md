@@ -1162,6 +1162,8 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [Metalang99][603] - Full-blown preprocessor metaprogramming. [``MIT``][MIT]
 * [Datatype99][604] - Algebraic data types for C99. [``MIT``][MIT]
 * [EasyLogger][706] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
+* [microlog][709] - Extensible and configurable logging library with topics for embedded and desktop 
+  [``MIT``][MIT]
 
 ## Web Frameworks ##
 
@@ -1853,3 +1855,4 @@ support for C.
 [707]: https://github.com/OCamlPro/owi
 [708]: https://hal.science/hal-04627413
 [709]: https://github.com/Vaishnav-Sabari-Girish/sbor
+[709]: https://github.com/an-dr/microlog
